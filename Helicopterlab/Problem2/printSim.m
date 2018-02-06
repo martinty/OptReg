@@ -1,0 +1,1 @@
+print('-depsc', '-s', 'helicopter2');
